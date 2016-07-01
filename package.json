@@ -1,0 +1,19 @@
+{
+  "name": "idea-mirror",
+  "version": "1.0.0",
+  "description": "a handy mirror of plugins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nabraham/idea-mirror.git"
+  },
+  "author": "Nathan Abraham <nabraham@gmail.com> (https://github.com/nabraham/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nabraham/idea-mirror/issues"
+  },
+  "homepage": "https://github.com/nabraham/idea-mirror#readme"
+}
